@@ -15,7 +15,6 @@
 
 ## Languages:
  - Java
- - Python
  - Kotlin
 ## Currently Working On:
 [![OMMS Central](https://github-readme-stats.vercel.app/api/pin/?username=OhMyMinecraftServer&repo=omms-central)](https://github.com/OhMyMinecraftServer/omms-central)
