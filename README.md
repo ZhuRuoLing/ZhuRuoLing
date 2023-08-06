@@ -13,10 +13,12 @@
       />
       <img
             src = "https://api.githubtrends.io/user/svg/ZhuRuoLing/langs?time_range=one_year&include_private=True&theme=bright_lights"
+            height="200"
             align = "center"
             />
       <img
             src = "https://api.githubtrends.io/user/svg/ZhuRuoLing/repos?time_range=one_year&theme=bright_lights"
+            height="200"
             align = "center"
             />
     </p>
