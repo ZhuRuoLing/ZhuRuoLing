@@ -20,10 +20,4 @@
     </p>
 
 ## Languages:
- - Java
- - Kotlin
-## Currently Working On:
-[![OMMS Central](https://github-readme-stats.vercel.app/api/pin/?username=OhMyMinecraftServer&repo=omms-central)](https://github.com/OhMyMinecraftServer/omms-central)
-[![OMMS Crystal](https://github-readme-stats.vercel.app/api/pin/?username=ZhuRuoLing&repo=omms-crystal)](https://github.com/ZhuRuoLing/omms-crystal)
-[![OMMS Connect](https://github-readme-stats.vercel.app/api/pin/?username=ZhuRuoLing&repo=omms-connect)](https://github.com/ZhuRuoLing/omms-crystal)
-[![OMMS Controller Fabric](https://github-readme-stats.vercel.app/api/pin/?username=ZhuRuoLing&repo=omms-controller-fabric)](https://github.com/ZhuRuoLing/omms-controller-fabric)
+[![Java](https://img.shields.io/badge/awesome-java-f89820)](https://www.java.com/)  [![Kotlin](https://img.shields.io/badge/awesome-kotlin-B125EA)](https://kotlinlang.org/)
